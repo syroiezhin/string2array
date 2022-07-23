@@ -14,7 +14,7 @@
 > Условие, для фильтрации каждого __symbol__ строки __str__.
 - [X] `while '0' <= symbol <= '9' or symbol == '.'`
 
-- [X] ```python
+```python
 while '0' <= symbol <= '9' or symbol == '.':
     overwriting += symbol
     enumerator += 1

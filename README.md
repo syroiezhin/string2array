@@ -5,11 +5,11 @@
 <br>
 
 ***To solve this problem we need:***
-> 1. Variable `str` with numbers separated by spaces and/or other characters;
-> 2. The variable `symbol = str[enumerator]`, which will acquire the value of one character from the __str__ variable;
-> 3. Variable `enumerator`, which will count the number __symbol__ in the string __str__;
-> 4. Variable `overwriting += symbol`, which will be filled with numbers with the __symbol__ variable that have been filtered.
-> 5. The `result` variable, which is an array of the desired numbers.
+1. Variable `str` with numbers separated by spaces and/or other characters;
+2. The variable `symbol = str[enumerator]`, which will acquire the value of one character from the __str__ variable;
+3. Variable `enumerator`, which will count the number __symbol__ in the string __str__;
+4. Variable `overwriting += symbol`, which will be filled with numbers with the __symbol__ variable that have been filtered.
+5. The `result` variable, which is an array of the desired numbers.
 
 <br>
 

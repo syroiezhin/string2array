@@ -16,9 +16,9 @@
 
 ```python
 while '0' <= symbol <= '9' or symbol == '.':
-overwriting += symbol
-enumerator += 1
-if enumerator < len(str): symbol = str[enumerator]
+    overwriting += symbol
+    enumerator += 1
+    if enumerator < len(str): symbol = str[enumerator]
 ```
 
 - [X] ``
